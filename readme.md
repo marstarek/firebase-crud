@@ -1,0 +1,1 @@
+https://github.com/benwinding/react-admin-firebase
